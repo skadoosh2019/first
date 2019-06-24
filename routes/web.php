@@ -36,7 +36,7 @@ Route::get('/market','MarketController@index')->name('market');
 //Account Management
 Route::get('/account','AccountController@index')->name('account');
 //Logout Management
-
+//Test Commit for github
 //Register data
 // Route::get('/registerUser','RegisterUserController@index')->name('registerUser');
 Route::get('/createAccount','RegisterUserController@createAccount')->name('createAccount');
