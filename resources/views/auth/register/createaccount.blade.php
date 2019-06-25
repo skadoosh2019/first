@@ -120,7 +120,7 @@
                           
                             <div class="collapse-module_collapse__24uNq" id="accreditation-options">
                                 <div>
-                                    <span class="accreditation-type">I am an Securities Investorr, but I do not meet any of the other accreditation options.</span>
+                                    <span class="accreditation-type">I am an Securities Investor, but I do not meet any of the other accreditation options.</span>
                                     <div class="description"></div>
                                 </div>
                                 <div>
