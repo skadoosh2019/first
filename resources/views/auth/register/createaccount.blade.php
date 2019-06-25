@@ -112,14 +112,14 @@
                         <h3 class="header">Accreditation</h3>
                         <div class="position-relative form-group">
                             <label for="certified-accredited" class="message">Do you certify that you
-                                already own DSTO tokens, Securitief Fund Preferred Stock OR meet an
+                                already own STO tokens, Securitief Fund Investor  OR meet an
                                 allowed
                                 accreditation option?
                                 <span class="see-options link-btn" id="accreditation-info" onclick="infoDetail()">See allowed accreditation options.</span>
                             </label>
                             <div class="collapse-module_show__171rS" id="accreditation-options "
                                  style="display: none">
-                                <div><span class="accreditation-type">I am current Investor Securitief Venture Pool, but I do not meet any of the other accreditation options.</span>
+                                <div><span class="accreditation-type">I am an Securities Investor, but I do not meet any of the other accreditation options.</span>
                                     <div class="description"></div>
                                 </div>
                                 <div><span class="accreditation-type">I am a FEDERAL token holder, but I do not meet any of the other accreditation options.</span>

@@ -1,6 +1,6 @@
     <footer class="footer-wrapper">
         <div class="footer-desktop container">
-            <a class="logo-container" href="/portfolio">
+            <a class="logo-container" href="{{route('login')}}">
                 <div class="dino-group-logo-wrapper">
                     <img id="dino-group-logo-footer" src="{{ asset('images/sec-logo.png') }}"
                          alt="Securitief Logo">

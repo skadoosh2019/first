@@ -57,15 +57,7 @@
 
 <script src="{{ asset('js/jquery.min.js') }}" type="text/javascript"></script>
 <script src="{{ asset('js/bootstrap.min.js') }}" type="text/javascript"></script>
-<!-- <script src="{{ asset('js/register/1.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/register/2.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/register/3.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/register/4.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/register/5.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/register/6.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/register/7.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/register/8.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/register/9.js') }}" type="text/javascript"></script> -->
+
 @yield('js_after')
 </body>
 </html>
