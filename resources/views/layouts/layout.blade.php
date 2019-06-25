@@ -48,7 +48,19 @@
             type="text/javascript"></script>
     <script src="{{ asset('js/apexcharts.min.js') }}" type="text/javascript"></script>
     <script src="{{ asset('js/partials/switcher.js') }}" type="text/javascript"></script>
-
+    <script src="{{ asset('js/jquery.min.js') }}" type="text/javascript"></script>
+    <script>
+        $(document).ready(function() {
+            let themeID = sessionStorage.getItem('crypto-html-theme');
+            
+            if(themeID == 'light-purple-red'){
+                document.getElementById('logo_img').src="../../../images/small-secuiritiif.png";
+            }
+            if(themeID == 'night-gold-orange'){
+                document.getElementById('logo_img').src="../../../images/small-white-secuiritiif.png";
+            }
+        });
+    </script>
 @yield('js_after')
 </body>
 </html>
