@@ -1,8 +1,7 @@
 @extends('layouts.register.layout')
 @section('content')
-        <script>
+     
 
-    </script>
     <div class="register-wrapper container" id="AccountDetail">
         <!-- <form novalidate="" class=""> -->
         <div id="account-details" class="row">
@@ -364,7 +363,7 @@
                         <div class="position-relative form-group">
                             <div class="country-code-search-wrapper">
                                 <button type="button" id="country-code" name="countryCode"
-                                        class="search-filter">+1
+                                        class="search-filter">
                                     <input hidden="" placeholder="Country Code" autocomplete="off"
                                            type="text" class="form-control" value="1">
                                 </button>
@@ -413,8 +412,7 @@
                         </div>
                         <div class="collapse-module_collapse__24uNq" id = "faq1_detail">Please refer to our
 
-                            <a href="//dinogroup.com/wp/privacy-policy/" target="_blank"
-                               rel="noreferrer noopener">Privacy Policy.</a>
+                            <a href="javascript:void(0)" rel="noreferrer noopener">Privacy Policy.</a>
                         </div>
                     </div>
                     <div class="faq-question-wrapper">
@@ -439,6 +437,7 @@
         </div>
         <!-- </form> -->
     </div>
+    
 @endsection
 @section('js_after')
     <script>
@@ -468,5 +467,6 @@
                 flag_faq2 = 0;
             }
         });
+
     </script>
 @endsection

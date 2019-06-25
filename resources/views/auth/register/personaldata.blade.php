@@ -6,7 +6,7 @@
             <div class="col-sm-12 col-md-8">
                 <h3 class="header">Personal Data</h3>
                 <p class="header-message">Skip for now?
-                    <a class="link" href="/portfolio">View Portfolio</a>
+                    <a class="link" href="{{route('dashboard')}}">View Portfolio</a>
                 </p>
                 <div class="collapse-module_collapse__24uNq">
                     <div class="" style="transition: opacity 300ms ease-in-out 0s; opacity: 1;">
@@ -1116,8 +1116,7 @@
                         </div>
                         <div class="collapse-module_collapse__24uNq" id="faq1_detail">Please refer to our
 
-                            <a href="//dinogroup.com/wp/privacy-policy/" target="_blank"
-                               rel="noreferrer noopener">Privacy Policy.</a>
+                            <a href="javascript:void(0)" rel="noreferrer noopener">Privacy Policy.</a>
                         </div>
                     </div>
                     <div class="faq-question-wrapper">

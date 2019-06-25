@@ -57,7 +57,7 @@
                
                 <footer class="footer-wrapper">
                     <div class="footer-desktop container">
-                        <a class="logo-container" href="/portfolio">
+                        <a class="logo-container" href="{{route('dashboard')}}">
                             <div class="dino-group-logo-wrapper">
                                 <img id="dino-group-logo-footer" src="{{ asset('images/sec-logo.png') }}"
                                      alt="Securitief Logo">
@@ -69,7 +69,7 @@
                                 Limited is Authorised and Regulated by the Financial Conduct Authority. Market
                                 volatility and volume may delay systems access and trade execution.</p>
                             <div class="bottom-disclosures">
-                                <p class="footer-text-muted copyright">© 2019 tZERO Group, INC. All Rights Reserved.&nbsp;</p>
+                                <p class="footer-text-muted copyright">© 2019 Securitief Group, INC. All Rights Reserved.&nbsp;</p>
                                 <a class="footer-text-muted support-email"
                                    href="mailto:SecurityTokenSupport@dinogroup.com">Email Support</a>
                             </div>

@@ -7,25 +7,22 @@
                 </div>
             </a>
             <div class="footer-disclosures-container">
-                <p class="footer-text-muted dino-disclosure">© 2019 Dinosaur Financial Group, LLC is
-                    registered with the SEC and a member of FINRA, SIPC, and NFA. Dinosaur Merchant Bank
-                    Limited is Authorised and Regulated by the Financial Conduct Authority. Market
-                    volatility and volume may delay systems access and trade execution.</p>
+                <p class="footer-text-muted dino-disclosure">© 2019  Securitief is not a registered broker-dealer or placement agent, does not provide investment banking services or investment advice, and does not affect securities transactions for issuers. Broker-dealer services, including investment banking services and services relating to secondary trading of security tokens, will be provided through one or more registered broker-dealer partners or affiliates of Securitief Platform.</p>
                 <div class="bottom-disclosures">
-                    <p class="footer-text-muted copyright">© 2019 tZERO Group, INC. All Rights Reserved.&nbsp;</p>
+                    <p class="footer-text-muted copyright">© 2019 Securities Platform. All Rights Reserved.&nbsp;</p>
                     <a class="footer-text-muted support-email"
-                       href="mailto:SecurityTokenSupport@dinogroup.com">Email Support</a>
+                    href="javascript:void(0)">Email Support</a>
                 </div>
             </div>
             <div class="footer-social-container">
-                <a class="social-link" href="//twitter.com/Securitief-453653825439636" style="padding:0px 10px 0px 10px">
+                <a class="social-link" href="https://twitter.com/Securitief" style="padding:0px 10px 0px 10px">
                     <i class="fa fa-twitter" style="font-size:24px"></i>
                 </a>
-                <a class="social-link" href="//www.facebook.com/securitief/" style="padding:0px 10px 0px 10px">
+                <a class="social-link" href="https://www.facebook.com/Securitief-453653825439636" style="padding:0px 10px 0px 10px">
                     <i class="fa fa-facebook" style="font-size:24px"></i>
                 </a>
-                <a class="social-link" href="//www.instagram.com" style="padding:0px 10px 0px 10px">
-                    <i class="fa fa-instagram" style="font-size:24px"></i>
+                <a class="social-link" href="https://www.linkedin.com/company/securitief/about/" style="padding:0px 10px 0px 10px">
+                    <i class="fa fa-linkedin" style="font-size:24px"></i>
                 </a>
             </div>
         </div>

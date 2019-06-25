@@ -7,7 +7,7 @@
                 <div class="col-sm-12 col-md-8">
                     <h3 class="header">Investor Data</h3>
                     <p class="header-message">Skip this for now?
-                        <a class="link" href="/portfolio">View Portfolio</a>
+                        <a class="link" href="{{route('dashboard')}}">View Portfolio</a>
                     </p>
                     <div class="row">
                         <div class="col-sm-12"></div>
@@ -775,8 +775,8 @@
                                 <span class="document-list-item">Tax Letter (if applicable)</span>
                                 <p>If you have any questions about what is required, you can reach out
                                     to
-                                    <a href="mailto:SecurityTokenSupport@dinogroup.com"
-                                       class="support-email">SecurityTokenSupport@dinogroup.com</a>.
+                                    <a href="mailto:SecurityTokenSupport@securitief.com"
+                                       class="support-email">SecurityTokenSupport@securitief.com</a>.
                                 </p>
                             </div>
                         </div>
@@ -848,8 +848,7 @@
                             </div>
                             <div class="collapse-module_collapse__24uNq" id = "faq1_detail">Please refer to our
 
-                                <a href="//dinogroup.com/wp/privacy-policy/" target="_blank"
-                                   rel="noreferrer noopener">Privacy Policy.</a>
+                                <a href="javascript:void(0)"  rel="noreferrer noopener">Privacy Policy.</a>
                             </div>
                         </div>
                         <div class="faq-question-wrapper">

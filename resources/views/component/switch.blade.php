@@ -25,6 +25,6 @@
 						</div>
 					</div>
 				</div>
-				<label for="crypto-theme-switch">Switch theme</label>
+				<label for="crypto-theme-switch">Switch Mode</label>
 			</div>
 		</div>

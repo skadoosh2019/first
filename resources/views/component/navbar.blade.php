@@ -1,6 +1,6 @@
 <div class="crypto-sidenav">
 	<nav class="crypto-navigation">
-		<a href="index.html" class="crypto-navigation__logo">
+		<a href="{{route('dashboard')}}" class="crypto-navigation__logo">
 			<!-- Image element or even SVG can be used here -->
 			<img src="{{ asset('images/small-white-secuiritiif.png') }}" alt="Secuiritiif" class="crypto-navigation__logo-image" id = "logo_img"/>
 			<!-- <svg height="40" viewBox="0 0 40 40" width="40"

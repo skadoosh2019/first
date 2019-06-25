@@ -16,6 +16,7 @@ Route::get('/', 'Auth\LoginController@index');
 Route::match(['get', 'post'], '/dashboard', function(){
     return view('dashboard');
 });
+// Route::get('index', 'DashboardController@index')->name('dashboard');
 Route::view('/examples/plugin-helper', 'examples.plugin_helper');
 Route::view('/examples/plugin-init', 'examples.plugin_init');
 Route::view('/examples/blank', 'examples.blank');

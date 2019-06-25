@@ -71,8 +71,7 @@
                             </div>
                             <div class="collapse-module_collapse__24uNq" id="faq1_detail">Please refer to our
 
-                                <a href="//dinogroup.com/wp/privacy-policy/" target="_blank"
-                                   rel="noreferrer noopener">Privacy Policy.</a>
+                                <a href="javascript:void(0)" rel="noreferrer noopener">Privacy Policy.</a>
                             </div>
                         </div>
                         <div class="faq-question-wrapper">

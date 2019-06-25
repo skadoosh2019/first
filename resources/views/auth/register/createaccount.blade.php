@@ -63,7 +63,7 @@
                     <div class="col-sm-12">
                         <div class="position-relative form-group">
                             <label for="policy-acceptance" class="message">Do you agree to creating a
-                                brokerage account with Securitief DSTPfor secondary token trading? When
+                                brokerage account with Securitief DSTP for secondary token trading? When
                                 signing up for an account please be aware that you are agreeing to all
                                 of our terms (
                                 <a href="/disclosures/privacy-policy/" target="_blank"
@@ -119,10 +119,10 @@
                             </label>
                             <div class="collapse-module_show__171rS" id="accreditation-options "
                                  style="display: none">
-                                <div><span class="accreditation-type">I am an Overstock Preferred Stock holder, but I do not meet any of the other accreditation options.</span>
+                                <div><span class="accreditation-type">I am current Investor Securitief Venture Pool, but I do not meet any of the other accreditation options.</span>
                                     <div class="description"></div>
                                 </div>
-                                <div><span class="accreditation-type">I am a TZROP token holder, but I do not meet any of the other accreditation options.</span>
+                                <div><span class="accreditation-type">I am a FEDERAL token holder, but I do not meet any of the other accreditation options.</span>
                                     <div class="description"></div>
                                 </div>
                                 <div><span class="accreditation-type">Proof of Income</span>
@@ -242,7 +242,7 @@
                                     <div class="description"></div>
                                 </div>
                                 <div>
-                                    <span class="accreditation-type">I am a TZROP token holder, but I do not meet any of the other accreditation options.</span>
+                                    <span class="accreditation-type">I am a FEDERAL token holder, but I do not meet any of the other accreditation options.</span>
                                     <div class="description"></div>
                                 </div>
                                 <div>
@@ -428,7 +428,7 @@
                         <div class="position-relative form-group">
                             <label for="gdpr-acceptance" class="message">Do you consent to our use, as
                                 well as our reviewing attorneys, of the information you provide to
-                                Dinosaur Financial Group during registration and use of our service in
+                                Securitief during registration and use of our service in
                                 order to provide you with and to communicate with you regarding the
                                 accredited investor verification service and such other services as you
                                 may agree to? Storage and handling of your information will be on
@@ -486,8 +486,7 @@
                         </div>
                         <div class="collapse-module_collapse__24uNq" id="faq1_detail">Please refer to our
 
-                            <a href="//dinogroup.com/wp/privacy-policy/" target="_blank"
-                               rel="noreferrer noopener">Privacy Policy.</a>
+                            <a href="javascript:void(0)"  rel="noreferrer noopener">Privacy Policy.</a>
                         </div>
                     </div>
                     <div class="faq-question-wrapper">

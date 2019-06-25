@@ -24,7 +24,7 @@
                                 <label class="form-check-label">
                                     <input name="accreditation-type" type="radio" class="form-check-input"
                                            value="NOT ACCREDITED WITH OSTKP TOKENS">
-                                    <span class="accreditation-type">I am an Securitief Preferred Stock holder, but I do not meet any of the other accreditation options.</span>
+                                    <span class="accreditation-type">I am an Securitief Investor, but I do not meet any of the other accreditation options.</span>
                                     <div class="description"></div>
                                 </label>
                             </div>
@@ -33,8 +33,8 @@
                             <div class="position-relative form-check">
                                 <label class="form-check-label">
                                     <input name="accreditation-type" type="radio" class="form-check-input"
-                                           value="NOT ACCREDITED WITH TZROP TOKENS">
-                                    <span class="accreditation-type">I am a TZROP token holder, but I do not meet any of the other accreditation options.</span>
+                                           value="NOT ACCREDITED WITH FEDERAL TOKENS">
+                                    <span class="accreditation-type">I am a FEDERAL Securities holder, but I do not meet any of the other accreditation options.</span>
                                     <div class="description"></div>
                                 </label>
                             </div>
@@ -296,8 +296,7 @@
                             </div>
                             <div class="collapse-module_collapse__24uNq" id = "faq1_detail">Please refer to our
 
-                                <a href="//dinogroup.com/wp/privacy-policy/" target="_blank"
-                                   rel="noreferrer noopener">Privacy Policy.</a>
+                                <a href="javascript:void(0)"  rel="noreferrer noopener">Privacy Policy.</a>
                             </div>
                         </div>
                         <div class="faq-question-wrapper">
